@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+#cnv{
+    position: relative;
+    top: 100px;
+    left: -200px;
+    border: 8px solid #000000;
+}
